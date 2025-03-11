@@ -1,8 +1,7 @@
-Go Practice
+fiber-practice
 ========
 
 ```shell
-go get -d
 go build
-./go-practice
+./fiber-practice
 ```
