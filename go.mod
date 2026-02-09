@@ -2,7 +2,7 @@ module github.com/simnalamburt/fiber-practice
 
 go 1.24.1
 
-require github.com/gofiber/fiber/v2 v2.52.9
+require github.com/gofiber/fiber/v2 v2.52.11
 
 require (
 	github.com/andybalholm/brotli v1.1.0 // indirect
